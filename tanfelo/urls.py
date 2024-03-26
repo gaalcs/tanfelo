@@ -16,7 +16,20 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
+from app_tanfelo.views import tantargyak_feltoltese_view, tantargyak_feltoltese_kuld_view, tanarok_feltoltese_view, tanarok_feltoltese_kuld_view, kapcsolat_feltoltese_view, kapcsolat_feltoltese_kuld_view
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+
+    #Tantárgyak
+    path('tanfelo/feltoltes/tantargyak/', tantargyak_feltoltese_view),
+    path('tanfelo/feltoltes/tantargyak/kuld/', tantargyak_feltoltese_kuld_view),
+
+    #Tanárok
+    path('tanfelo/feltoltes/tanarok/', tanarok_feltoltese_view),
+    path('tanfelo/feltoltes/tanarok/kuld/', tanarok_feltoltese_kuld_view),
+
+    #Kapcsolatok(tantargy-tanar)
+    path('tanfelo/feltoltes/kapcsolat/', kapcsolat_feltoltese_view),
+    path('tanfelo/feltoltes/kapcsolat/kuld/', kapcsolat_feltoltese_kuld_view),
 ]
