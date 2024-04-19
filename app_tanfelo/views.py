@@ -48,10 +48,12 @@ def tanarok_feltoltese_kuld_view(request):
     sorok = nyers.split('\r\n')
     for sor in sorok[1:]:
         sortomb = sor.split('\t')
-        Tanfelo_Tanar.objects.create(
+        neve = Tanfelo_Tanar.objects.create(
             nev = sortomb[0],
-            # tantargyai = sortomb[1],
         )
+        for tantargy in sortomb[1:]:
+            a_tantargya = Tanfelo_Tantargy.objects.get(nev = tantargy)
+            neve.tantargyai.add(a_tantargya)
 
     return render(request, template, context)
 
@@ -74,6 +76,6 @@ def kapcsolat_feltoltese_kuld_view(request):
         for tantargy in sortomb[:1]:
             a_tantargya = Tanfelo_Tantargy.objects.get(nev = tantargy)
             a_tanar.tantargyai.add(a_tantargya)
-            a_tantargya.tantargygondozoi.add(a_tanar)
+            # a_tantargya.tantargygondozoi.add(a_tanar.user)
 
     return render(request, template, context)
