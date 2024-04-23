@@ -50,7 +50,7 @@ class Tanfelo_Tanulocsoport(models.Model):
 
     nev = models.CharField(max_length=100)
     kreta = models.CharField(max_length=255)
-    lehetseges_tantargyai = models.ManyToManyField(Tanfelo_Tantargy)
+    lehetseges_tantargyai = models.ManyToManyField(Tanfelo_Tantargy, blank=True, null=True)
 
     class Meta:
         verbose_name = "Tanulócsoport"
