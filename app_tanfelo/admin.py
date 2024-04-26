@@ -21,6 +21,9 @@ class Tanfelo_TanulocsoportAdmin(admin.ModelAdmin):
                 queryset.union(super().get_queryset(request).filter(lehetseges_tantargyai=tantargy))
             return queryset
         return None
+    
+
+    
 
 admin.site.register(Tanfelo_Tanulocsoport, Tanfelo_TanulocsoportAdmin),
 admin.site.register(Tanfelo_Kmk),
