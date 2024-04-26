@@ -1,0 +1,586 @@
+ki	mit	kinek	oraszam
+Adamis Bence	Földrajz fakultáció	_földrajz fakt 12/1_AB (ABCD)	2
+Bardóczky Anna Fruzsina	Testnevelés	9.E_testnevelés 9E/lány_BAF	3
+Cservák Andrea Mária	Digitális kultúra fakultáció	_digikult fakt közép 11/1_CsA (ABCE)	2
+Deák Ferenc	Testnevelés	9.E_testnevelés 9E/fiú_DF	3
+Fekete Richárd Marcell	Kémia fakultáció	_kémia fakt 11/1_FR (ABCDF)	4
+Földesi Dávid	Digitális kultúra	10.A_digikult 10A/1_FD	1
+Geiger Gabriella	Angol szakkör	_angol-szk 12_GeB (12AEF)	3
+Horváth András	Fizika fakultáció	_fizika fakt 12/1_HAn (BCEDEF)	4
+Kuruczné Horváth Gabriella	Biológia	11.E_biológia fakt 11/1_KHG (E/1)	4
+Menyhárt Krisztina	Biológia fakultáció	_biológia fakt 12/3_MK (ABCD)	4
+Sóskuthyné Kovács Erzsébet	Kémia fakultáció	11.E_kémia fakt 11/3_SKE (E/2)	4
+Tandory Gábor	Földrajz fakultáció	_földrajz fakt 11/1_TG (AEF)	2
+Tóth Levente	Testnevelés	_testnevelés MN/02_TL (asztalitenisz H)	1
+Nagyné Vas Erika	Testnevelés	_testnevelés MN/18_NVE (prevenciós)	2
+Varga Csilla	Digitális kultúra korrepetálás	_digikult-korrep_VCs	2
+Ágoston Enikő	Matematika	9.E_matematika 9E/2_ÁE	3
+Bardóczky Anna Fruzsina	Testnevelés	9.D_testnevelés 9D/lány-1_BAF	3
+Bildné Molnár Ágnes Zsuzsanna	Nyelvtan	10.D_nyelvtan 10D/1na_BMÁ	1
+Deák Ferenc	Testnevelés	10.E_testnevelés 10E/fiú_DF	3
+Fajcsák Éva Anna	Olasz nyelv	9.A_olasz 4óra 9/3_FÉ	4
+Földesi Dávid	Matematika	10.D_matematika 10D/2_FD	3
+Hazir Barbara	Matematika	9.B_matematika 9B/2_HaB	4
+Krasznay Kinga Mária	Olasz nyelv	9.A_olasz 4óra 9/2_KMM	4
+Ladányi Edina	Testnevelés	KNYA_testnevelés KNYA/lány_LaE	3
+Lázár Luca Zsuzsanna	Nyelvtan	9.F_nyelvtan 9F/2tk_LL	1
+Molnár Attila	Digitális kultúra	10.F_digikult 10F/1inf_Mat	5
+Müller Ágnes	Olasz nyelv	9.A_olasz 4óra 9/1_MÁ	4
+Nagy Szilvia Viktória	Testnevelés	_testnevelés KNYA9D/lány-2_NSz	3
+Nagyné Vas Erika	Testnevelés	10.E_testnevelés 10E/lány_NVE	3
+Németh Szilvia	Fizika	10.B_	11
+Péczely Patrik Zoltán	Történelem	9.E_történelem 9E/1_PPZ	2
+Péteri Zsuzsanna	Matematika	10.A_matematika 10A/2_PZs	4
+Sebestyén-Zákonyi Flóra	Történelem	10.A_történelem 10A/1_SZáF	2
+Szabó Anna Krisztina	Történelem	10.F_történelem 10F/2tk_SzAn	2
+Szabó Petra	Nyelvtan	9.B_nyelvtan 9B/1_SzPe	1
+Sztranyák Fanni	Matematika	9.F_matematika 9F/1inf_SzF	4
+Teremy Krisztina Anna	Nyelvtan	NYE_nyelvtan NYE/1_TK	1
+Tóth Levente	Testnevelés	_testnevelés KNYA9D/fiú_TL	3
+Varga Bettina	Matematika	NYE_matematika NYE/2_VB	2
+Adamis Bence	Történelem	10.B_történelem 10B/1mat_AB	2
+Bardóczky Anna Fruzsina	Testnevelés	12.C_testnevelés 12C/lány_BAF	3
+Bartha Tiborné	Angol nyelv	NYF_angol tm NyF/2tk_BTK	1
+Bildné Molnár Ágnes Zsuzsanna	Nyelvtan	12.E_nyelvtan 12E/alap_BMÁ	1
+Bothné Tomor Judit	Olasz nyelv	_olasz 11/4_TJ (10A11BCD)	4
+Brücknerné Halász Judit	Német nyelv	_német 11/4_BHJ (10A11BCD)	4
+Csanádi Ágnes Judit	Angol nyelv	9.E_angol 9/6_CsÁJ (E/2)	4
+Deák Ferenc	Testnevelés	12.C_testnevelés 12C/fiú_DF	3
+Déry Rincón Audrey Margaret	Spanyol nyelv	_spanyol 11/3_DRA (10A11BCD/2)	4
+Dr. Juhász Andrea	Angol nyelv	NYE_angol NYE/1_JA (E/1)	8
+Dukayné Kneusel-Herdlicska Szilvia Veronika	Angol nyelv	_angol 11/8_DKS (EF/3)	5
+Eletto Gianmaria Domenico	Olasz célnyelvi civilizáció	11.A_olasz célnyelvi civilizáció 11A/2_EGD	2
+Fekete Richárd Marcell	Kémia	9.B_kémia 9B/2_FR	2
+Gáll- Bertók Fruzsina	Angol nyelv	_angol 11/7_GBF (EF/2)	5
+Geiger Gabriella	Angol nyelv	_angol 11/9_GeB (EF/4)	5
+Gismondi Giovanni Domenico	Olasz nyelv	KNYA_olasz lekt KNy/1_GG	3
+Hajba László	Angol nyelv	_angol 11/11_HL (10A11D/2)	4
+Hegedűs Anna	Olasz nyelv	11.A_olasz 11/1_HA (A/1)	5
+Herczeg Annamária	Irodalom	12.D_irodalom 12D/alap_HeA	3
+Kacsóné Süle Brigitta	Irodalom	_irodalom fakt 12/1_KSB (ABDE)	5
+Krasznay Kinga Mária	Olasz nyelv	KNYA_olasz 8óra KNy/2_KKM	8
+Kudella Mária	Irodalom	12.B_irodalom 12B/alap_KM	3
+Lázár Luca Zsuzsanna	Nyelvtan	9.A_nyelvtan 9A/1_LL	1
+Lissák Bertalan	Angol nyelv	_angol 11/10_LB (10A11D/1)	4
+Lobmayerné Malatinszky Gabriella	Kémia	10.E_kémia 10E/1_LMG	3
+Menyhárt Krisztina	Biológia	10.E_biológia 10E/2_MK	4
+Molnár Attila	Digitális kultúra	12.F_digikult 12F/1inf_Mat	5
+Müller Ágnes	Olasz nyelv	KNYA_olasz 8óra KNy/3_MÁ	8
+Nagy Katalin	Angol nyelv	9.E_angol 9/5_NK (E/1)	4
+Nagy Szilvia Viktória	Testnevelés	10.F_testnevelés 10F/lány_NSz	3
+Péteri Zsuzsanna	Fizika	10.D_	8
+Sebestyén-Zákonyi Flóra	Történelem	9.A_történelem 9A/2_SZáF	2
+Séra-Rózsa Mária Márta	Nyelvtan	NYF_nyelvtan NYF/1inf_SRMM	1
+Sóskuthyné Kovács Erzsébet	Kémia	9.D_kémia 9D/1na_SKE	2
+Sum Viktória Ilona	Spanyol nyelv	_spanyol 11/2_SVI (10A11BCD/1)	4
+Szabados Péter	Mozgóképkultúra és médiaismeret	12.F_média 12F/2tk_SzaP	4
+Szabó Anna Krisztina	Orosz nyelv	_orosz 11/1_SzAn (10A11BCD)	4
+Szabó Petra	Angol nyelv	NYE_angol NYE/2_SzaPe (E/2)	4
+Szabolcsi Lili	Francia nyelv	_francia 11/2_SzL (10A11BCD)	4
+Sztranyák Fanni	Angol nyelv	_angol 11/12_SzF (10A11D/3)	4
+Tandory Gábor	Földrajz	9.F_	12
+Tóth Levente	Testnevelés	10.F_testnevelés 10F/fiú_TL	3
+Vámosné Polyák Krisztina	Irodalom	10.B_irodalom 10B/2_VPK	3
+Varga Bettina	Matematika	9.B_matematika 9B/1_VB	7
+Varga Boglárka	Angol nyelv	_angol 11/6_VBo (EF/1)	5
+Varga Csilla	Digitális kultúra	9.D_digikult 9D/2r_VCs	2
+Weigert Rebeka	Irodalom	12.A_irodalom 12A/alap_WR	5
+Adamis Bence	Történelem	_történelem fakt 11/3_AB (DEF)	5
+Ágoston Enikő	Matematika	11.C_matematika 11C/1mat_ÁE	6
+Balanyi Rita	Rajz vizuális kultúra	10.D_rajz 10D/1na_BR	1
+Bardóczky Anna Fruzsina	Testnevelés	12.B_testnevelés 12B/lány_BAF	3
+Bildné Molnár Ágnes Zsuzsanna	Német nyelv	_német 9/2_BMÁ (EF/1)	4
+Bothné Tomor Judit	Történelem	11.C_történelem 11C/2hum_TJ	5
+Csákvári Lilla Andrea	Olasz nyelv	_olasz 9/4_CsLA (EF)	4
+Csanádi Ágnes Judit	Angol nyelv	11.B_angol 11/2_CsÁJ (B/2)	5
+Darabánt Emese	Matematika	9.D_matematika 9D/2r_DE	4
+Deák Ferenc	Testnevelés	12.A_testnevelés 12A/fiú_DF	3
+Déry Rincón Audrey Margaret	Spanyol nyelv	_spanyol 9/1_DRA (EF)	4
+Fajcsák Éva Anna	Olasz nyelv	KNYA_olasz 8óra KNy/1_FÉ	8
+Fekete Richárd Marcell	Kémia	9.A_kémia 9A/2_FR	2
+Fodor Sára Erzsébet	Angol nyelv	_angol 12/4_FSE (CD/2)	6
+Furiák Gergő	Testnevelés	12.B_testnevelés 12B/fiú_FuG	3
+Gál Anikó Ildikó	Német nyelv	_német 9/3_GA (EF/2)	4
+Gismondi Giovanni Domenico	Művészettörténet	11.A_művészettörténet 11A/1_GG	1
+Hazir Barbara	Matematika	9.A_matematika 9A/1_HaB	3
+Hegedűs Anna	Olasz nyelv	11.A_olasz 11/2_HA (A/2)	5
+Herczeg Annamária	Történelem	10.A_történelem 10A/2_HeA	2
+Kudella Mária	Francia nyelv	_francia 9/1_KM (EF)	4
+Kuruczné Horváth Gabriella	Kémia	10.B_	1
+Lázár Luca Zsuzsanna	Történelem	11.E_történelem 11E/alap_LL	3
+Mészáros Edit	Német nyelv	12.D_német 12/1_ME (D)	6
+Nagy Katalin	Angol nyelv	11.B_angol 11/1_NK (B/1)	5
+Nagy Szilvia Viktória	Testnevelés	12.E_testnevelés 12E/lány_NSz	3
+Nagyné Vas Erika	Testnevelés	12.A_testnevelés 12A/lány_NVE	3
+Németh Szilvia	Fizika	10.F_	3
+Pató Zoltán	Történelem	11.F_történelem 11F/alap_PZ	4
+Péteri Zsuzsanna	Matematika	10.A_matematika 10A/1_PZs	1
+Séra-Rózsa Mária Márta	Nyelvtan	NYF_nyelvtan NYF/2tk_SRMM	1
+Sum Viktória Ilona	Magyar mint idegen nyelv	_magyar mint idegen nyelv_SVI (AG)	3
+Szabó Anna Krisztina	Történelem	11.D_történelem 11D/alap_SzAn	5
+Székely Réka Erzsébet	Angol nyelv	_angol 12/3_SzRE (CD/1)	3
+Sztranyák Fanni	Matematika	NYF_matematika NYF/1inf_SzF	3
+Teremy Krisztina Anna	Történelem	10.D_történelem 10D/2r_TK	6
+Tóth Dóra	Angol nyelv	_angol 12/6_TD (CD/4)	3
+Tóth Levente	Testnevelés	12.E_testnevelés 12E/fiú_TL	6
+Varga Boglárka	Angol nyelv	_angol 12/5_VBo (CD/3)	2
+Varga Csilla	Digitális kultúra	9.B_digikult 9B/2_VCs	1
+Weigert Rebeka	Nyelvtan	9.D_nyelvtan 9D/1na_WR	5
+Adamis Bence	Történelem	12.C_történelem 12C/alap_AB	7
+Balanyi Rita	Rajz vizuális kultúra	KNYA_	3
+Bardóczky Anna Fruzsina	Testnevelés	9.F_testnevelés 9F/lány_BAF	5
+Brücknerné Halász Judit	Német nyelv	10.D_német 10/1n_BHJ (D)	4
+Csanádi Ágnes Judit	Angol nyelv	NYF_angol NYF/1_CsÁJ (F/1)	3
+Cservák Andrea Mária	Digitális kultúra	NYE_digikult NYE/1_CsA	6
+Darabánt Emese	Matematika	12.E_matematika 12E/2_DE	3
+Deák Ferenc	Testnevelés	11.E_testnevelés 11E/fiú_DF	4
+Déry Rincón Audrey Margaret	Spanyol nyelv	_spanyol 10/1_DRA (EF)	4
+Dukayné Kneusel-Herdlicska Szilvia Veronika	Angol nyelv	_angol 10/2_DKS (BD/1)	5
+Fajcsák Éva Anna	Olasz nyelv	12.A_olasz 12/1_FÉ (A/1)	3
+Fekete Gabriella	Matematika	9.E_matematika 9E/1_FG	4
+Fodor Sára Erzsébet	Angol nyelv	_angol 10/3_FSE (BD/2)	4
+Gál Anikó Ildikó	Német nyelv	_német 10/2_GA (EF/1)	4
+Giannelli Barbara Réka	Olasz nyelv	_olasz 10/4_GBR (EF)	2
+Gismondi Giovanni Domenico	Művészettörténet	12.A_művészettörténet 12A/2_GG	6
+Krajnyák Attila János	Matematika	12.E_matematika 12E/1_KA	2
+Kudella Mária	Irodalom	11.F_irodalom 11F/alap_KM	3
+Ladányi Edina	Testnevelés	11.E_testnevelés 11E/lány_LaE	1
+Lázár Luca Zsuzsanna	Nyelvtan	11.A_nyelvtan 11A/alap_LL	4
+Lobmayerné Malatinszky Gabriella	Kémia	9.E_kémia 9E/2_LMG	9
+Menyhárt Krisztina	Biológia	10.A_	4
+Mészáros Edit	Német nyelv	_német 10/3_ME (EF/2)	6
+Molnár Attila	Matematika	12.F_matematika 12F/tkinf-alap_MAt	3
+Nagy Katalin	Irodalom	11.B_irodalom 11B/alap_NK	8
+Nagyné Pálmay Piroska	Matematika	_matematika fakt 12/3_NPP (EF)	4
+Pató Zoltán	Történelem	12.B_történelem 12B/alap_PZ	6
+Péczely Patrik Zoltán	Történelem	_történelem fakt 12/2_PPZ (BCD)	3
+Péteri Zsuzsanna	Matematika	9.A_matematika 9A/2_PZs	2
+Sebestyén-Zákonyi Flóra	Történelem	9.A_történelem 9A/1_SZáF	2
+Sóskuthyné Kovács Erzsébet	Biológia	9.D_	2
+Sum Viktória Ilona	Magyar mint idegen nyelv	_magyar mint idegen nyelv_SVI (ZS)	4
+Szabó Anna Krisztina	Orosz nyelv	_orosz 10/1_SzAn (EF)	4
+Szabó Petra	Angol nyelv	_angol 10/4_SzaPe (BD/3)	4
+Szabolcsi Lili	Francia nyelv	_francia 10/1_SzL (EF)	6
+Szendrei Péter	Történelem	12.C_történelem 12C/2hum_SzP	4
+Tandory Gábor	Földrajz	9.B_	5
+Teremy Krisztina Anna	Történelem	12.D_történelem 12D/alap_TK	3
+Tóth Dóra	Angol nyelv	NYF_angol NYF/2_TD (F/2)	5
+Tóth Levente	Testnevelés	9.F_testnevelés 9F/fiú_TL	4
+Vámosné Polyák Krisztina	Irodalom	_irodalom fakt 11/1_VPK (ABDF)	3
+Varga Boglárka	Angol nyelv	10.B_angol 10/1_VBo (B/1)	3
+Varga Csilla	Digitális kultúra	NYE_digikult NYE/2_VCs	4
+Weigert Rebeka	Irodalom	11.D_irodalom 11D/alap_WR	3
+Ágoston Enikő	Matematika	11.C_matematika 11C/alap_ÁE	9
+Balanyi Rita	Rajz vizuális kultúra	10.F_	1
+Bardóczky Anna Fruzsina	Testnevelés	11.F_testnevelés 11F/lány_BAF	4
+Bartha Tiborné	Ének-zene	9.A_	4
+Bildné Molnár Ágnes Zsuzsanna	Nyelvtan	10.D_nyelvtan 10D/2r_BMÁ	4
+Bothné Tomor Judit	Olasz nyelv	10.A_olasz 10/2_TJ (A/2)	4
+Brücknerné Halász Judit	Német nyelv	_német 12/3_BHJ (11A12BCD/2)	2
+Csákvári Lilla Andrea	Olasz nyelv	10.A_olasz 10/1_CsLA (A/1)	3
+Csanádi Ágnes Judit	Angol nyelv	_angol 12/8_CsÁJ (11A12D/2)	4
+Cservák Andrea Mária	Digitális kultúra	11.E_digikult 11E/1_CsA	6
+Deák Ferenc	Testnevelés	10.B_testnevelés 10B/fiú_DF	4
+Déry Rincón Audrey Margaret	Spanyol nyelv	_spanyol 12/2_DRA (11A12BCD/2)	2
+Dr. Juhász Andrea	Angol nyelv	9.B_angol 9/1_JA (B/1)	4
+Dukayné Kneusel-Herdlicska Szilvia Veronika	Angol nyelv	_angol 12/9_DKS (11A12D/3)	2
+Eletto Gianmaria Domenico	Történelem	12.A_történelem-ol 12A/alap_EGD	3
+Fekete Gabriella	Matematika	11.B_matematika 11B/1_FG	1
+Fekete Richárd Marcell	Biológia	9.E_biológia 9E/1_FR	3
+Fodor Sára Erzsébet	Történelem	11.C_történelem 11C/1mat_FSE	8
+Földesi Dávid	Digitális kultúra	10.D_digikult 10D/1_FD	4
+Furiák Gergő	Testnevelés	11.F_testnevelés 11F/fiú_FuG	5
+Gál Anikó Ildikó	Német nyelv	9.D_német 9/1_GA (D)	6
+Gáll- Bertók Fruzsina	Német nyelv	_német 12/4_GBF (11A12BCD/3)	4
+Geiger Gabriella	Angol nyelv	_angol 9/3_GeB (BD/2)	2
+Hajba László	Angol nyelv	_angol 9/2_HL (BD/1)	4
+Hazir Barbara	Matematika	11.B_matematika 11B/2_HaB	4
+Kacsóné Süle Brigitta	Irodalom	KNYA_irodalom KNYA/1_KSB	4
+Krasznay Kinga Mária	Olasz nyelv	_olasz 12/3_KKM (ABCD)	2
+Kudella Mária	Francia nyelv	_francia 12/1_KM (11A12BCD/1)	4
+Kuruczné Horváth Gabriella	Biológia	11.E_biológia fakt 11/2_KHG (E/2)	4
+Lobmayerné Malatinszky Gabriella	Kémia	9.F_kémia 9F/1inf_LMG	3
+Mester Lívia	Matematika	11.D_matematika 11D/2r_ML	1
+Mészáros Edit	Német nyelv	_német 12/2_ME (11A12BCD/1)	4
+Nagy Szilvia Viktória	Testnevelés	10.B_testnevelés 10B/lány_NSz	4
+Nagyné Vas Erika	Osztályfőnöki	NYE_	1
+Németh Szilvia	Fizika	10.E_	4
+Péczely Patrik Zoltán	Történelem	12.A_történelem fakt 12/1_PPZ (A)	2
+Péteri Zsuzsanna	Matematika	11.D_matematika 11D/1n_PZs	4
+Séra-Rózsa Mária Márta	Nyelvtan	KNYA_nyelvtan KNYA/2_SRMM	4
+Sum Viktória Ilona	Spanyol nyelv	_spanyol 12/1_SVI (11A12BCD/1)	2
+Szabados Péter	Mozgóképkultúra és médiaismeret	9.F_média 9F/2tk_SzaP	5
+Szabó Anna Krisztina	Orosz nyelv	_orosz 12/1_SzAn (11A12BCD)	2
+Szabolcsi Lili	Francia nyelv	_francia 12/2_SzL (11A12BCD/2)	6
+Székely Réka Erzsébet	Angol nyelv	NYF_angol NYF/1_SzRE (F/1)	4
+Sztranyák Fanni	Angol nyelv	_angol 9/4_SzF (BD/3)	6
+Teremy Krisztina Anna	Irodalom	9.E_irodalom 9E/2_TK	2
+Varga Bettina	Matematika	_matematika fakt 11/1_VB (BCD)	3
+Varga Boglárka	Angol nyelv	_angol 12/7_VBo (11A12D/1)	2
+Ágoston Enikő	Matematika	_matematika fakt 11/1_ÁE (AE)	4
+Balanyi Rita	Mozgóképkultúra és médiaismeret	NYF_média NYF/2tk_BR	3
+Bartha Tiborné	Ének-zene	9.F_	4
+Bothné Tomor Judit	Történelem	11.B_történelem 11B/alap_TJ	4
+Csákvári Lilla Andrea	Olasz nyelv	_olasz 10/3_NN (9A10BD)	4
+Darabánt Emese	Matematika	9.D_matematika 9D/1na_DE	2
+Deák Ferenc	Testnevelés	_testnevelés 10A11D/fiú_DF	7
+Déry Rincón Audrey Margaret	Spanyol nyelv	_spanyol 10/3_DRA (9A10BD/2)	5
+Dr. Juhász Andrea	Angol nyelv	_angol 10/5_JA (EF/1)	4
+Dukayné Kneusel-Herdlicska Szilvia Veronika	Angol nyelv	_angol 10/9_DKS (EF/5)	2
+Eletto Gianmaria Domenico	Olasz célnyelvi civilizáció	12.A_olasz célnyelvi civilizáció 12A/1_EGD	1
+Failné Sebestyén Ágnes Mária	Matematika	12.B_matematika fakt 12/2_FSÁ (B)	3
+Fajcsák Éva Anna	Olasz nyelv	12.A_olasz 12/2_FÉ (A/2)	6
+Fekete Gabriella	Matematika	11.E_matematika 11E/2_FG	3
+Fodor Sára Erzsébet	Történelem	9.B_történelem 9B/2an_FSE	3
+Furiák Gergő	Osztályfőnöki	12.D_	7
+Gáll- Bertók Fruzsina	Angol nyelv	NYE_angol NYE/1_GBF (E/1)	5
+Geiger Gabriella	Angol nyelv	NYE_angol NYE/2_GeB (E/2)	4
+Gismondi Giovanni Domenico	Olasz nyelv	KNYA_olasz lekt KNy/2_GG	6
+Hazir Barbara	Matematika	11.A_matematika 11A/1_HaB	3
+Herczeg Annamária	Irodalom	12.F_	1
+Horváth András	Matematika	12.B_matematika 12B/alap_HAn	4
+Krajnyák Attila János	Digitális kultúra	11.F_digikult 11F/1inf_KA	4
+Krasznay Kinga Mária	Olasz nyelv	KNYA_olasz 6óra KNy/1_KKM	3
+Ladányi Edina	Testnevelés	11.D_testnevelés 11D/lány-1_LaE	4
+Lázár Luca Zsuzsanna	Nyelvtan	12.C_nyelvtan 12C/1mat_LL	3
+Lobmayerné Malatinszky Gabriella	Kémia	9.E_kémia 9E/1_LMG	3
+Mester Lívia	Matematika	11.E_matematika 11E/1_ML	5
+Molnár Attila	Digitális kultúra	NYF_digikult NYF/1inf_Mat	2
+Nagy Katalin	Angol nyelv	_angol 10/10_NK (9A10D/1)	1
+Nagy Szilvia Viktória	Testnevelés	10.A_testnevelés 10A/lány-1_NSz	4
+Nagyné Vas Erika	Testnevelés	_testnevelés 10A11D/lány-2_NVE	4
+Pató Zoltán	Történelem	11.B_történelem fakt 11/2_PZ (B)	4
+Péczely Patrik Zoltán	Történelem	9.E_történelem 9E/2_PPZ	4
+Pók Tímea	Rajz vizuális kultúra	9.D_rajz 9D/2r_PT	4
+Séra-Rózsa Mária Márta	Német nyelv	_német 10/4_SRMM (9A10BD)	5
+Sum Viktória Ilona	Spanyol nyelv	_spanyol 10/2_SVI (9A10BD/1)	4
+Szabados Péter	Angol nyelv	_angol 10/12_SzaP (9A10D/3)	4
+Szabó Anna Krisztina	Orosz nyelv	_orosz 10/2_SzAn (9A10BD)	1
+Székely Réka Erzsébet	Angol nyelv	_angol 10/7_SzRE (EF/3)	5
+Szendrei Péter	Történelem	12.E_történelem 12E/alap_SzP	3
+Sztranyák Fanni	Angol nyelv	_angol 10/8_SzF (EF/4)	4
+Tandory Gábor	Angol nyelv	_angol 10/11_TG (9A10D/2)	2
+Teremy Krisztina Anna	Nyelvtan	12.C_nyelvtan 12C/2hum_TK	6
+Vámosné Polyák Krisztina	Irodalom	11.C_irodalom 11C/2hum_VPK	7
+Varga Bettina	Matematika	11.A_matematika 11A/2_VB	3
+Varga Boglárka	Angol nyelv	_angol 10/6_VBo (EF/2)	2
+Varga Csilla	Digitális kultúra	9.B_digikult 9B/1_VCs	2
+Zanna Giuliana	Olasz nyelv	KNYA_olasz 6óra KNy/3_ZG	6
+Adamis Bence	Történelem	_történelem fakt 12/3_AB (EF)	6
+Balanyi Rita	Rajz vizuális kultúra	11.D_rajz 11D/2r_BR	5
+Bartha Tiborné	Zenetörténet	11.B_műv-modul{zenetört} 11/5_BTK (B)	2
+Bartha Tiborné	Zenetörténet	_műv-modul{zenetört} 11/7_BTK (CDF)	5
+Bildné Molnár Ágnes Zsuzsanna	Német nyelv	_német NYEF/1_BMÁ (EF/1)	5
+Csákvári Lilla Andrea	Olasz nyelv	_olasz NYEF/1_CsLA	2
+Darabánt Emese	Matematika	12.D_matematika 12D/2r_DE	3
+Eletto Gianmaria Domenico	Történelem	11.A_történelem fakt-ol 11/1_EGD (A)	5
+Failné Sebestyén Ágnes Mária	Matematika	10.B_matematika 10B/1mat_FSÁ	5
+Fekete Gabriella	Matematika	12.D_matematika 12D/1n_FG	6
+Fekete Richárd Marcell	Biológia	9.B_	3
+Fodor Sára Erzsébet	Történelem	10.D_történelem 10D/1na_FSE	7
+Földesi Dávid	Matematika	12.C_matematika 12C/alap_FD	2
+Geiger Gabriella	Angol nyelv	12.B_angol 12/2_GeB (B/2)	6
+Giannelli Barbara Réka	Olasz nyelv	KNYA_olasz 6óra KNy/2_GBR	1
+Gismondi Giovanni Domenico	Olasz nyelv	KNYA_olasz lekt KNy/3_GG	1
+Hazir Barbara	Matematika	12.C_matematika 12C/1mat_HaB	7
+Herczeg Annamária	Történelem	10.B_történelem 10B/2an_HeA	6
+Kudella Mária	Francia nyelv	_francia NYEF/1_KM	1
+Kuruczné Horváth Gabriella	Osztályfőnöki	11.E_	2
+Lázár Luca Zsuzsanna	Nyelvtan	9.F_nyelvtan 9F/1inf_LL	6
+Mester Lívia	Matematika	_matematika fakt 12/1_ML (ACD)	6
+Pató Zoltán	Történelem	12.F_történelem 12F/alap_PZ	1
+Pók Tímea	Ábrázoló geometria	_műv-mod{ábrgeometria} 11/1_PT (BC)	1
+Sebestyén-Zákonyi Flóra	Történelem	11.A_történelem 11A/alap_SZáF	2
+Séra-Rózsa Mária Márta	Német nyelv	_német NYEF/2_SRMM (EF/2)	3
+Sum Viktória Ilona	Spanyol nyelv	_spanyol NYEF/1_SVI (EF)	5
+Szabados Péter	Mozgóképkultúra és médiaismeret	12.B_média 12B/1mt_SzaP	1
+Szabó Petra	Nyelvtan	10.A_	1
+Nagyné Vas Erika	Testnevelés	_testnevelés MN/09_NVE (gógy-prevenciós 1)	2
+Pók Tímea	Rajz vizuális kultúra	12.D_rajz 12D/2r_PT	2
+Székely Réka Erzsébet	Angol nyelv	12.B_angol 12/1_SzRE (B/1)	4
+Teremy Krisztina Anna	Történelem érettségi felkészítő	_történelem-érettségi-felkész_TK	2
+Vámosné Polyák Krisztina	Magyar szakkör	_magyar-szakkör_VPK	4
+Horváth András	Testnevelés	_testnevelés MN/12_Han (kocsmasport)	4
+Kocsis Mariann	Testnevelés	_testnevelés MN/17_KoM (parkour)	2
+Csörgő Lilla	Testnevelés	_testnevelés MN/19_CsL (röplabda haladó)	4
+Nagy Szilvia Viktória	Testnevelés	_testnevelés MN/21_NSz (röplabda középhaladó)	2
+Szabados Péter	Média gyakorlat	_média rádió összejátszás_SzaP (9F/2tk)	2
+Dr. Juhász Andrea	Angol nyelv	9.F_angol 9/7_JA (F/1)	4
+Fábián Gábor Zoltán	Digitális kultúra	9.E_digikult 9E/2_FáG	2
+Gáll- Bertók Fruzsina	Angol nyelv	9.F_angol 9/8_GBF (F/2)	3
+Hegyiné Krasnyánszki Dóra	Természettudomány	_termtud 11/1_HKD (ABCDF)	4
+Horváth András	Természettudomány	_termtud 11/2_HAn (ABCDF)	4
+Lobmayerné Malatinszky Gabriella	Biológia fakultáció	_biológia fakt 11/3_LMG (ABCDF)	2
+Nagy Bendegúz	Digitális kultúra fakultáció	_digikult fakt emelt 11/1_NB (BCDEF)	2
+Nagy Szilvia Viktória	Testnevelés	NYF_testnevelés NYF/lány_NSz	3
+Sárkány Péter	Fizika fakultáció	_fizika fakt 11/1_SP (BCEDEF)	3
+Sóskuthyné Kovács Erzsébet	Kémia fakultáció	11.E_kémia fakt 11/2_SKE (E/1)	3
+Szabados Péter	Mozgóképkultúra és médiaismeret fakultáció	_média fakt 11/1_SzP (ABCDEF)	1
+Tandory Gábor	Természettudomány	_termtud 11/3_TG (ABCDF)	1
+Tóth Levente	Testnevelés	NYF_testnevelés NYF/fiú_TL	2
+Vámosné Polyák Krisztina	Irodalom	10.B_irodalom 10B/1_VPK	3
+Bildné Molnár Ágnes Zsuzsanna	Irodalom	10.D_irodalom 10D/2r_BMÁ	2
+Csanádi Ágnes Judit	Osztályfőnöki	NYF_	3
+Dickerson Willard Wilton	Angol nyelv	_angol 12/3_DW (CD/1)	3
+Failné Sebestyén Ágnes Mária	Matematika	NYE_matematika NYE/1_FSÁ	3
+Földesi Dávid	Matematika	10.D_matematika 10D/1_FD	3
+Hazir Barbara	Matematika	KNYA_matematika KNYA/2_HaB	3
+Krajnyák Attila János	Matematika	10.F_matematika 10F/1inf_KA	3
+Kudella Mária	Irodalom	9.D_irodalom 9D/1na_KM	3
+Ladányi Edina	Testnevelés	9.B_testnevelés 9B/lány_LaE	3
+Mester Lívia	Matematika	10.E_matematika 10E/1_ML	6
+Molnár Attila	Matematika	10.F_matematika 10F/2tk_Mat	1
+Péteri Zsuzsanna	Fizika	10.A_	2
+Sztranyák Fanni	Matematika	10.B_matematika 10B/2an_SzF	1
+Tóth Levente	Testnevelés	9.B_testnevelés 9B/fiú_TL	3
+Bardóczky Anna Fruzsina	Testnevelés	_testnevelés 11A12D/lány-2_BAF	1
+Darabánt Emese	Matematika	11.F_matematika fakt 11/2_DE (F)	3
+Dickerson Willard Wilton	Angol nyelv	12.B_angol 12/1_DW (B/1)	4
+Eletto Gianmaria Domenico	Történelem	12.A_történelem fakt-ol 12/1_EGD (A)	3
+Fekete Richárd Marcell	Kémia	10.D_	3
+Furiák Gergő	Testnevelés	_testnevelés 11A12D/fiú_FuG	2
+Gyetvai Györgyi	Olasz nyelv	KNYA_olasz tanm KNy/2_GyGy	3
+Herczeg Annamária	Irodalom	11.C_irodalom 11C/1mat_HeA	3
+Krajnyák Attila János	Matematika	11.F_matematika 11F/alap_KA	2
+Ladányi Edina	Testnevelés	11.A_testnevelés 11A/lány-1_LaE	2
+Lázár Luca Zsuzsanna	Irodalom	12.C_irodalom 12C/1mat_LL	5
+Lobmayerné Malatinszky Gabriella	Biológia	9.A_	2
+Menyhárt Krisztina	Biológia	10.B_	1
+Molnár Attila	Digitális kultúra	9.F_digikult 9F/1inf_Mat	3
+Nagy Szilvia Viktória	Testnevelés	12.D_testnevelés 12D/lány-1_NSz	1
+Péczely Patrik Zoltán	Történelem	12.A_történelem 12A/alap_PPZ	2
+Szabó Petra	Irodalom	10.A_	1
+Teremy Krisztina Anna	Irodalom	12.C_irodalom 12C/2hum_TK	3
+Varga Csilla	Digitális kultúra	9.D_digikult 9D/1na_VCs	2
+Weigert Rebeka	Nyelvtan	9.D_nyelvtan 9D/2r_WR	1
+Bardóczky Anna Fruzsina	Testnevelés	10.D_testnevelés 10D/lány-1_BAF	3
+Eletto Gianmaria Domenico	Történelem	10.A_történelem-ol 10A/1_EGD	2
+Fekete Richárd Marcell	Kémia	9.B_kémia 9B/1_FR	3
+Földesi Dávid	Digitális kultúra	10.A_digikult 10A/2_FD	1
+Furiák Gergő	Testnevelés	_testnevelés 9A10D/fiú_FuG	1
+Gismondi Giovanni Domenico	Művészettörténet	12.A_művészettörténet 12A/1_GG	3
+Gyetvai Györgyi	Olasz nyelv	KNYA_olasz tanm KNy/1_GyGy	2
+Ladányi Edina	Testnevelés	9.A_testnevelés 9A/lány-1_LaE	3
+Lázár Luca Zsuzsanna	Irodalom	9.F_irodalom 9F/2tk_LL	2
+Nagyné Vas Erika	Testnevelés	_testnevelés 9A10D/lány-2_NVE	4
+Sárkány Péter	Matematika	11.A_matematika-ol 11A/1_SP	2
+Sibak Zsuzsanna	Osztályfőnöki	12.F_	4
+Tandory Gábor	Földrajz	9.D_	3
+Bildné Molnár Ágnes Zsuzsanna	Irodalom	10.D_irodalom 10D/1na_BMÁ	3
+Dukayné Kneusel-Herdlicska Szilvia Veronika	Angol nyelv	NYF_angol NYF/2_DKS (F/2)	1
+Furiák Gergő	Testnevelés	12.F_testnevelés 12F/fiú_FuG	2
+Gyetvai Györgyi	Olasz nyelv	9.A_olasz 2óra 9/1_GyGy	4
+Hanga Ildikó	Kémia fakultáció	12.E_kémia fakt 12/2_HI (E/1)	3
+Herczeg Annamária	Irodalom	10.F_	3
+Krasznay Kinga Mária	Olasz nyelv	9.A_olasz 2óra 9/3_KMM	5
+Menyhárt Krisztina	Biológia	10.E_biológia 10E/1_MK	2
+Nagyné Pálmay Piroska	Matematika	10.E_matematika 10E/2_NPP	1
+Nagyné Vas Erika	Testnevelés	12.F_testnevelés 12F/lány_NVE	2
+Sárkány Péter	Matematika	12.A_matematika-ol 12A/1_SP	2
+Sibak Zsuzsanna	Mozgóképkultúra és médiaismeret	11.F_média 11F/2tk_SiZs	4
+Sóskuthyné Kovács Erzsébet	Biológia fakultáció	12.E_biológia fakt 12/2_SKE (E/2)	2
+Szabó Petra	Irodalom	9.B_irodalom 9B/1_SzPe	6
+Szabó Petra	Irodalom	9.B_irodalom 9B/2_SzPe	5
+Tóth Dóra	Angol nyelv	NYF_angol NYF/1_TD (F/1)	2
+Zanna Giuliana	Olasz nyelv	9.A_olasz 2óra 9/2_ZG	2
+Balanyi Rita	Rajz vizuális kultúra	9.D_rajz 9D/1na_BR	2
+Brutóczki András	Matematika	KNYA_matematika KNYA/1_BrA	4
+Cservák Andrea Mária	Digitális kultúra	12.F_digikult 12F/2tk_CsA	2
+Dukayné Kneusel-Herdlicska Szilvia Veronika	Angol nyelv	_angol 11/3_DKS (CD/1)	4
+Fodor Sára Erzsébet	Történelem	9.B_történelem 9B/1mat_FSE	1
+Gál Anikó Ildikó	Német nyelv	11.D_német 11/1_GA (D)	5
+Gáll- Bertók Fruzsina	Angol nyelv	_angol 11/5_GBF (CD/3)	2
+Gyetvai Györgyi	Földrajz	10.A_földrajz-ol 10A/2_GyGy	2
+Herczeg Annamária	Történelem	9.D_történelem 9D/2r_HeA	3
+Kacsóné Süle Brigitta	Irodalom	11.E_	3
+Krajnyák Attila János	Matematika	12.A_matematika 12A/1_KA	1
+Lázár Luca Zsuzsanna	Irodalom	9.F_irodalom 9F/1inf_LL	1
+Nagyné Pálmay Piroska	Matematika	12.A_matematika 12A/2_NPP	1
+Sárkány Péter	Matematika	11.A_matematika-ol 11A/2_SP	2
+Székely Réka Erzsébet	Angol nyelv	_angol 11/4_SzRE (CD/2)	1
+Teremy Krisztina Anna	Irodalom	9.E_irodalom 9E/1_TK	4
+Vámosné Polyák Krisztina	Irodalom	10.E_	2
+Varga Bettina	Matematika	9.F_matematika 9F/2tk_VB	2
+Varga Csilla	Digitális kultúra	KNYA_digikult KNYA/2_VCs	2
+Balanyi Rita	Rajz vizuális kultúra	9.A_	4
+Cservák Andrea Mária	Digitális kultúra	10.E_digikult 10E/1_CsA	4
+Deák Ferenc	Osztályfőnöki	9.E_	1
+Dickerson Willard Wilton	Angol nyelv	_angol 10/2_DW (BD/1)	3
+Gyetvai Györgyi	Földrajz	10.A_földrajz-ol 10A/1_GyGy	1
+Kudella Mária	Nyelvtan	11.F_nyelvtan 11F/alap_KM	2
+Kuruczné Horváth Gabriella	Kémia fakultáció	_kémia fakt 12/1_KHG (ABD)	3
+Lázár Luca Zsuzsanna	Irodalom	11.A_irodalom 11A/alap_LL	1
+Péczely Patrik Zoltán	Történelem	10.E_történelem 10E/2_PPZ	3
+Sárkány Péter	Fizika	9.F_	1
+Sibak Zsuzsanna	Mozgóképkultúra és médiaismeret	10.F_média 10F/2tk_SiZs	2
+Sóskuthyné Kovács Erzsébet	Biológia fakultáció	12.E_biológia fakt 12/1_SKE (E/1)	2
+Teremy Krisztina Anna	Irodalom	NYE_irodalom NYE/2_TK	1
+Balanyi Rita	Rajz vizuális kultúra	9.D_rajz 9D/2r_BR	2
+Dickerson Willard Wilton	Angol nyelv	10.B_angol 10/1_DW (B/1)	2
+Fábián Gábor Zoltán	Digitális kultúra	9.A_digikult 9A/1_FáG	2
+Ladányi Edina	Testnevelés	11.C_testnevelés 11C/lány_LaE	2
+Lázár Luca Zsuzsanna	Nyelvtan	9.A_nyelvtan 9A/2_LL	2
+Menyhárt Krisztina	Biológia	10.F_	4
+Tóth Levente	Testnevelés	11.C_testnevelés 11C/fiú_TL	2
+Furiák Gergő	Testnevelés	_testnevelés MN/24_FuG (spinning 3)	2
+Bartha Tiborné	Ének szakkör	_musical stúdió_BTK	2
+Sárkány Péter	Fizika szakkör	_fizika-szakkör_SP	2
+Pók Tímea	Vizuális kultúra érettségi felkészítő	_vizkult-érettség- felkészítő_PT	1
+Tóth Levente	Testnevelés	_testnevelés MN/23_TL (spinning 2)	1
+Bardóczky Anna Fruzsina	Testnevelés	_testnevelés MN/11_BAF (jóga)	2
+Furiák Gergő	Testnevelés	_testnevelés MN/13_FuG (kosárlabda)	1
+Szendrei Péter	Testnevelés	_testnevelés MN/07_SzP (gyeplabda 1)	1
+Fábián Gábor Zoltán	Digitális kultúra	11.C_digikult 11C/1mat_FáG	2
+Földesi Dávid	Digitális kultúra fakultáció	_digikult fakt emelt 12/1_FD (ABCDE)	2
+Hazir Barbara	Fizika	9.D_	1
+Krajnyák Attila János	Digitális kultúra	11.F_digikult 11F/2tk_KA	3
+Nagy Bendegúz	Digitális kultúra	11.C_digikult 11C/2hum_NB	1
+Pók Tímea	Rajz vizuális kultúra	10.D_rajz 10D/2r_PT	1
+Tóth Levente	Testnevelés	_testnevelés MN/03_TL (asztalitenisz Sz)	1
+Németh Szilvia	Fizika szakkör	_fizika-szakkör_NéSz	2
+Balanyi Rita	Rajz vizuális kultúra	10.D_rajz 10D/2r_BR	1
+Bartha Tiborné	Angol nyelv	NYE_angol tm NyE/2_BTK	1
+Gismondi Giovanni Domenico	Művészettörténet	11.A_művészettörténet 11A/2_GG	2
+Hanga Ildikó	Kémia	9.A_kémia 9A/1_HI	2
+Hegyiné Krasnyánszki Dóra	Biológia	NYE_biológia NYE/1_HKD	2
+Pók Tímea	Rajz vizuális kultúra	9.F_	3
+Varga Bettina	Matematika	NYF_matematika NYF/2tk_VB	2
+Herczeg Annamária	Magyar érettségi felkészítő	_magyar-érettségi-előkészító_HeA	1
+Horváth András	Fizika szakkör	_fizika-szakkör_HAn	1
+Bartha Tiborné	Angol nyelv	NYE_angol tm NyE/1_BTK	2
+Cservák Andrea Mária	Digitális kultúra	11.B_digikult 11B/2_CsA	2
+Hegedűs Anna	Osztályfőnöki	11.A_	5
+Lázár Luca Zsuzsanna	Osztályfőnöki	9.A_	2
+Nagy Bendegúz	Digitális kultúra	11.B_digikult 11B/1_NB	2
+Péczely Patrik Zoltán	Történelem	10.E_történelem 10E/1_PPZ	1
+Pók Tímea	Mozgóképkultúra és médiaismeret	11.F_média 11F/2tk_PT	1
+Weigert Rebeka	Irodalom	9.D_irodalom 9D/2r_WR	3
+Balanyi Rita	Rajz vizuális kultúra	9.E_	4
+Bartha Tiborné	Ének-zene	KNYA_	2
+Cservák Andrea Mária	Digitális kultúra	11.E_digikult 11E/2_CsA	1
+Dickerson Willard Wilton	Angol nyelv	11.B_angol 11/1_DW (B/1)	2
+Eletto Gianmaria Domenico	Történelem	10.A_történelem-ol 10A/2_EGD	3
+Földesi Dávid	Digitális kultúra	11.D_digikult 11D/1_FD	2
+Gyetvai Györgyi	Földrajz	9.A_földrajz-ol 9A/2_GyGy	2
+Hegyiné Krasnyánszki Dóra	Biológia	10.D_	1
+Kuruczné Horváth Gabriella	Biológia	11.E_	2
+Nagy Bendegúz	Digitális kultúra	11.D_digikult 11D/2_NB	3
+Németh Szilvia	Fizika	9.B_	2
+Balanyi Rita	Rajz vizuális kultúra	10.B_	2
+Bartha Tiborné	Osztályfőnöki	11.D_	3
+Földesi Dávid	Digitális kultúra	10.D_digikult 10D/2_FD	2
+Furiák Gergő	Testnevelés	NYE_testnevelés NYE/fiú_FuG	1
+Hanga Ildikó	Kémia fakultáció	12.E_kémia fakt 12/3_HI (E/2)	2
+Herczeg Annamária	Nyelvtan	12.F_	3
+Kacsóné Süle Brigitta	Nyelvtan	KNYA_nyelvtan KNYA/1_KSB	3
+Lázár Luca Zsuzsanna	Irodalom	9.A_irodalom 9A/1_LL	2
+Nagyné Vas Erika	Testnevelés	NYE_testnevelés NYE/lány_NVE	1
+Séra-Rózsa Mária Márta	Irodalom	KNYA_irodalom KNYA/2_SRMM	1
+Sibak Zsuzsanna	Mozgóképkultúra és médiaismeret	NYF_média NYF/2tk_SiZs	4
+Teremy Krisztina Anna	Nyelvtan	9.E_nyelvtan 9E/1_TK	3
+Varga Csilla	Digitális kultúra	9.A_digikult 9A/2_VCs	2
+Bartha Tiborné	Ének-zene	9.B_	3
+Cservák Andrea Mária	Digitális kultúra	KNYA_digikult KNYA/1_CsA	1
+Eletto Gianmaria Domenico	Olasz célnyelvi civilizáció	12.A_olasz célnyelvi civilizáció 12A/2_EGD	1
+Fodor Sára Erzsébet	Történelem	9.D_történelem 9D/1nat_FSE	2
+Furiák Gergő	Testnevelés	11.B_testnevelés 11B/fiú_FuG	3
+Gyetvai Györgyi	Földrajz	9.A_földrajz-ol 9A/1_GyGy	1
+Herczeg Annamária	Nyelvtan	10.F_	2
+Kacsóné Süle Brigitta	Nyelvtan	11.E_	1
+Lázár Luca Zsuzsanna	Irodalom	9.A_irodalom 9A/2_LL	3
+Lobmayerné Malatinszky Gabriella	Kémia	10.E_kémia 10E/2_LMG	2
+Nagyné Vas Erika	Testnevelés	11.B_testnevelés 11B/lány_NVE	3
+Pók Tímea	Rajz vizuális kultúra	11.D_rajz 11D/2r_PT	1
+Séra-Rózsa Mária Márta	Irodalom	NYF_irodalom NYF/1inf_SRMM	1
+Teremy Krisztina Anna	Nyelvtan	9.E_nyelvtan 9E/2_TK	2
+Bartha Tiborné	Ének-zene	10.E_	2
+Bildné Molnár Ágnes Zsuzsanna	Irodalom	12.E_irodalom 12E/alap_BMÁ	2
+Brücknerné Halász Judit	Német nyelv	_német 11/3_BHJ (EF/2)	2
+Eletto Gianmaria Domenico	Olasz célnyelvi civilizáció	11.A_olasz célnyelvi civilizáció 11A/1_EGD	1
+Giannelli Barbara Réka	Olasz nyelv	_olasz 11/3_GBR (EF)	4
+Herczeg Annamária	Nyelvtan	12.D_nyelvtan 12D/alap_HeA	2
+Kacsóné Süle Brigitta	Nyelvtan	_nyelvtan fakt 12/1_KSB (ABDE)	2
+Lobmayerné Malatinszky Gabriella	Kémia	9.F_kémia 9F/2tk_LMG	2
+Mészáros Edit	Német nyelv	_német 11/2_ME (EF/1)	1
+Nagy Szilvia Viktória	Osztályfőnöki	10.B_	2
+Pató Zoltán	Történelem	10.F_történelem 10F/1inf_PZ	2
+Péteri Zsuzsanna	Fizika	9.A_	1
+Séra-Rózsa Mária Márta	Irodalom	NYF_irodalom NYF/2tk_SRMM	1
+Sum Viktória Ilona	Spanyol nyelv	_spanyol 11/1_SVI (EF)	2
+Szabó Anna Krisztina	Történelem	9.F_történelem 9F/1inf_SzAn	2
+Szabolcsi Lili	Francia nyelv	_francia 11/1_SzL (EF)	2
+Tandory Gábor	Földrajz	9.E_	1
+Varga Boglárka	Angol nyelv	NYE_angol NYE/2_VBo (E/2)	4
+Weigert Rebeka	Nyelvtan	12.A_nyelvtan 12A/alap_WR	1
+Balanyi Rita	Művészeti technikák	_műv-mod{képzművtech} 11/3_BR (BCF)	1
+Bartha Tiborné	Zenetörténet	11.C_műv-modul{zenetört} 11/6_BTK (C)	2
+Bartha Tiborné	Zenetörténet	11.D_műv-modul{zenetört} 11/8_BTK (D)	2
+Eletto Gianmaria Domenico	Történelem	11.A_történelem-ol 11A/alap_EGD	2
+Fajcsák Éva Anna	Osztályfőnöki	12.A_	1
+Péczely Patrik Zoltán	Történelem	11.A_történelem fakt 11/1_PPZ (A)	1
+Pók Tímea	Ábrázoló geometria	_műv-mod{ábrgeometria} 11/2_PT (DF)	1
+Pók Tímea	Művészettörténet	_műv-mod{művtört} 11/4_PT (BCDF)	1
+Szabados Péter	Mozgóképkultúra és médiaismeret	12.D_	1
+Székely Réka Erzsébet	Osztályfőnöki	12.B_	1
+Tandory Gábor	Földrajz	10.E_	2
+Varga Csilla	Digitális kultúra	9.E_digikult 9E/1_VCs	2
+Nagyné Vas Erika	Testnevelés	_testnevelés MN/10_NVE (gógy-prevenciós 2)	1
+Szabados Péter	Mozgóképkultúra és médiaismeret	12.C_	2
+Pató Zoltán	Történelem érettségi felkészítő	_történelem-érettségi-felkész_PZ	2
+Tóth Levente	Testnevelés	_testnevelés MN/25_TL (spinning 3)	2
+Nagy Szilvia Viktória	Testnevelés	_testnevelés MN/20_NSz (röplabda kezdő)	2
+Sibak Zsuzsanna	Média gyakorlat	_média tv-előkészítés 10F/2tk_SiZs	2
+Bartha Tiborné	Ének-zene	10.D_	2
+Fekete Richárd Marcell	Biológia	9.E_biológia 9E/2_FR	1
+Molnár Attila	Osztályfőnöki	10.F_	2
+Balanyi Rita	Rajz vizuális kultúra	9.B_	5
+Csanádi Ágnes Judit	Angol nyelv	NYF_angol NYF/2_CsÁJ (F/2)	2
+Dickerson Willard Wilton	Angol nyelv	_angol 11/3_DW (CD/1)	2
+Hegyiné Krasnyánszki Dóra	Biológia	9.F_	2
+Krajnyák Attila János	Osztályfőnöki	11.F_	2
+Nemere Norma	Olasz nyelv	_olasz 10/3_NN (9A10BD)	1
+Balanyi Rita	Rajz vizuális kultúra	10.E_	2
+Brutóczki András	Fizika	9.E_	2
+Fekete Richárd Marcell	Kémia	9.D_kémia 9D/2r_FR	2
+Gyetvai Györgyi	Olasz nyelv	KNYA_olasz tanm KNy/3_GyGy	2
+Szabados Péter	Mozgóképkultúra és médiaismeret	12.B_média 12B/2an_SzaP	2
+Tandory Gábor	Földrajz	10.F_	2
+Teremy Krisztina Anna	Nyelvtan	NYE_nyelvtan NYE/2_TK	2
+Vámosné Polyák Krisztina	Nyelvtan	10.B_nyelvtan 10B/2_VPK	2
+Bartha Tiborné	Angol nyelv	NYF_angol tm NyF/1inf_BTK	2
+Dickerson Willard Wilton	Angol nyelv	12.B_angol 12/2_DW (B/2)	2
+Hegyiné Krasnyánszki Dóra	Biológia	NYE_biológia NYE/2_HKD	1
+Pató Zoltán	Történelem	9.F_történelem 9F/2tk_PZ	1
+Teremy Krisztina Anna	Irodalom	NYE_irodalom NYE/1_TK	1
+Bartha Tiborné	Ének-zene	10.B_	1
+Cservák Andrea Mária	Digitális kultúra	11.A_digikult 11A/1_CsA	1
+Fábián Gábor Zoltán	Digitális kultúra	11.A_digikult 11A/2_FáG	1
+Sóskuthyné Kovács Erzsébet	Kémia	10.F_	1
+Bartha Tiborné	Ének-zene	9.D_	1
+Nagy Bendegúz	Digitális kultúra	NYF_digikult NYF/1inf_NB	1
+Tandory Gábor	Földrajz	10.D_	1
+Dickerson Willard Wilton	Angol nyelv	9.B_angol 9/1_DW (B/1)	1
+Eletto Gianmaria Domenico	Olasz célnyelvi civilizáció	10.A_olasz célnyelvi civilizáció 10A/1_EGD	1
+Ladányi Edina	Osztályfőnöki	KNYA_	1
+Sibak Zsuzsanna	Mozgóképkultúra és médiaismeret	9.F_média 9F/2tk_SiZs	1
+Szabados Péter	Mozgóképkultúra és médiaismeret	_média 12_SzaP (A tömb)	1
+Tandory Gábor	Földrajz fakultáció	_földrajz fakt 11/2_TG (CD)	1
+Balanyi Rita	Rajz vizuális kultúra	12.D_rajz 12D/2r_BR	1
+Bartha Tiborné	Ének-zene	9.E_	2
+Eletto Gianmaria Domenico	Olasz célnyelvi civilizáció	10.A_olasz célnyelvi civilizáció 10A/2_EGD	1
+Nagy Katalin	Angol OKTV felkészülés	_angol-OKTV_NK (11BCDEF12B)	1
+Szabó Anna Krisztina	Orosz szakkör	_orosz-korrep_SzAn	1
+Bardóczky Anna Fruzsina	Testnevelés	_testnevelés MN/27_BAF (szertorna)	2
+Deák Ferenc	Testnevelés	_testnevelés MN/15_DF (labdarúgás)	1
+Kocsis Mariann	Testnevelés	_testnevelés MN/05_KoM (falmászás 1)	1
+Kocsis Mariann	Testnevelés	_testnevelés MN/28_KoM (tenisz)	2
+Szendrei Péter	Testnevelés	_testnevelés MN/08_SzP (gyeplabda 2)	1
+Bartha Tiborné	Énekkar	_énekkar_BTK	1
+Sibak Zsuzsanna	Média gyakorlat	_média tv-összejátszás 10F/2tk_SiZs	1
+Dickerson Willard Wilton	Angol nyelv	_angol 9/2_DW (BD/1)	2
+Kuruczné Horváth Gabriella	Kémia	NYE_kémia NYE/1_KHG	1
+Nagyné Vas Erika	Testnevelés	_testnevelés MN/22_NVE (spinning 1)	1
+Nagy Katalin	Osztályfőnöki	11.B_	2
+Szabados Péter	Mozgóképkultúra és médiaismeret	NYF_média NyF/2tk_SzaP	2
+Ágoston Enikő	Osztályfőnöki	11.C_	2
+Cservák Andrea Mária	Digitális kultúra	10.B_digikult 10B/1_CsA	2
