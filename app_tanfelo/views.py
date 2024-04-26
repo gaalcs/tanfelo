@@ -27,8 +27,7 @@ def tantargyak_feltoltese_kuld_view(request):
         sortomb = sor.split('\t')
         Tanfelo_Tantargy.objects.create(
             nev = sortomb[0],
-            slug = sortomb[1],
-            # tantargygondozoi = sortomb[2],
+            slug = "-",
         )
 
     return render(request, template, context)
@@ -51,9 +50,32 @@ def tanarok_feltoltese_kuld_view(request):
         neve = Tanfelo_Tanar.objects.create(
             nev = sortomb[0],
         )
-        for tantargy in sortomb[1:]:
-            a_tantargya = Tanfelo_Tantargy.objects.get(nev = tantargy)
-            neve.tantargyai.add(a_tantargya)
+        # nem kell egyelore a tanarok tantargyai, majd a kmk-bol fog kidelulni
+        # for tantargy in sortomb[1:]:
+        #     a_tantargya = Tanfelo_Tantargy.objects.get(nev = tantargy)
+        #     neve.tantargyai.add(a_tantargya)
+
+    return render(request, template, context)
+
+# Tanulócsoportok feltoltese
+@login_required
+def tanulocsoportok_feltoltese_view(request):
+    template = 'feltoltes_tanulocsoportok.html'
+    context = {}
+    return render(request, template, context)
+
+@login_required
+def tanulocsoportok_feltoltese_kuld_view(request):
+    template = 'feltoltes_tanulocsoportok_kuld.html'
+    context = {}
+    nyers = request.POST['tsv_szoveg'].strip()
+    sorok = nyers.split('\r\n')
+    for sor in sorok[1:]:
+        sortomb = sor.split('\t')
+        Tanfelo_Tanulocsoport.objects.create(
+            nev = sortomb[0],
+            kreta = sortomb[0],
+        )
 
     return render(request, template, context)
 
@@ -79,6 +101,56 @@ def tanarok_feltoltese_kuld_view(request):
 #             # a_tantargya.tantargygondozoi.add(a_tanar.user)
 
 #     return render(request, template, context)
+
+
+
+# KMK feltoltese
+@login_required
+def tantargyak_feltoltese_view(request):
+    template = 'feltoltes_tantargyak.html'
+    context = {}
+    return render(request, template, context)
+
+@login_required
+def tantargyak_feltoltese_kuld_view(request):
+    template = 'feltoltes_tantargyak_kuld.html'
+    context = {}
+    nyers = request.POST['tsv_szoveg'].strip()
+    sorok = nyers.split('\r\n')
+    for sor in sorok[1:]:
+        sortomb = sor.split('\t')
+        Tanfelo_Tantargy.objects.create(
+            nev = sortomb[0],
+            slug = sortomb[0],
+            # tantargygondozoi = sortomb[2],
+        )
+
+    return render(request, template, context)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Tanulocsoportok
 @login_required
