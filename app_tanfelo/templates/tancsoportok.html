@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tanulocsoportok</title>
+</head>
+<body>
+    {% comment %} <button id="10EF">10EF</button>
+    <button id="10E">10E</button>
+    <button id="10F">10F</button> {% endcomment %}
+
+
+    
+        {% for tancsoport in tancsoportok %}
+            <a href="{{ tancsoport.id }}/" >{{ tancsoport }}</a>
+        {% endfor %}        
+    
+
+</body>
+</html>

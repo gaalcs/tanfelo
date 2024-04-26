@@ -1,6 +1,6 @@
 from django.shortcuts import render
 from django.contrib.auth.decorators import login_required
-from .models import Tanfelo_Tantargy, Tanfelo_Tanar
+from .models import Tanfelo_Tantargy, Tanfelo_Tanar, Tanfelo_Tanulocsoport
 
 # Create your views here.
 
@@ -57,25 +57,49 @@ def tanarok_feltoltese_kuld_view(request):
 
     return render(request, template, context)
 
-# Tantárgy-Tanár kapcsolat feltoltese
+# # Tantárgy-Tanár kapcsolat feltoltese
+# @login_required
+# def kapcsolat_feltoltese_view(request):
+#     template = 'feltoltes_kapcsolat.html'
+#     context = {}
+#     return render(request, template, context)
+
+# @login_required
+# def kapcsolat_feltoltese_kuld_view(request):
+#     template = 'feltoltes_kapcsolat_kuld.html'
+#     context = {}
+#     nyers = request.POST['tsv_szoveg'].strip()
+#     sorok = nyers.split('\r\n')
+#     for sor in sorok[1:]:
+#         sortomb = sor.split('\t')
+#         a_tanar = Tanfelo_Tanar.objects.get(nev = sortomb[0]) #get-first!!!
+#         for tantargy in sortomb[:1]:
+#             a_tantargya = Tanfelo_Tantargy.objects.get(nev = tantargy)
+#             a_tanar.tantargyai.add(a_tantargya)
+#             # a_tantargya.tantargygondozoi.add(a_tanar.user)
+
+#     return render(request, template, context)
+
+# Tanulocsoportok
 @login_required
-def kapcsolat_feltoltese_view(request):
-    template = 'feltoltes_kapcsolat.html'
-    context = {}
+def tancsoportok_view(request):
+    template = 'tancsoportok.html'
+    context = {
+        "tancsoportok": Tanfelo_Tanulocsoport.objects.all(),
+    }
     return render(request, template, context)
 
+# Tanulocsoportok
 @login_required
-def kapcsolat_feltoltese_kuld_view(request):
-    template = 'feltoltes_kapcsolat_kuld.html'
-    context = {}
-    nyers = request.POST['tsv_szoveg'].strip()
-    sorok = nyers.split('\r\n')
-    for sor in sorok[1:]:
-        sortomb = sor.split('\t')
-        a_tanar = Tanfelo_Tanar.objects.get(nev = sortomb[0]) #get-first!!!
-        for tantargy in sortomb[:1]:
-            a_tantargya = Tanfelo_Tantargy.objects.get(nev = tantargy)
-            a_tanar.tantargyai.add(a_tantargya)
-            # a_tantargya.tantargygondozoi.add(a_tanar.user)
+def tancsoportok_id_view(request, id):
+    template = 'tancsoportok.html'
+
+    for tancsoport in Tanfelo_Tanulocsoport.objects.all():
+        if tancsoport.id == id:
+            context = {
+                "tancsoportok": Tanfelo_Tanulocsoport.objects.all(),
+                "id": id,
+            }
+            
 
     return render(request, template, context)

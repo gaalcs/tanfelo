@@ -16,7 +16,8 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
-from app_tanfelo.views import tantargyak_feltoltese_view, tantargyak_feltoltese_kuld_view, tanarok_feltoltese_view, tanarok_feltoltese_kuld_view, kapcsolat_feltoltese_view, kapcsolat_feltoltese_kuld_view
+from app_tanfelo.views import tantargyak_feltoltese_view, tantargyak_feltoltese_kuld_view, tanarok_feltoltese_view, tanarok_feltoltese_kuld_view#, kapcsolat_feltoltese_view, kapcsolat_feltoltese_kuld_view
+from app_tanfelo.views import tancsoportok_view, tancsoportok_id_view#, tancsoport_view
 
 urlpatterns = [
     path('admin/', admin.site.urls),
@@ -29,7 +30,13 @@ urlpatterns = [
     path('tanfelo/feltoltes/tanarok/', tanarok_feltoltese_view),
     path('tanfelo/feltoltes/tanarok/kuld/', tanarok_feltoltese_kuld_view),
 
-    #Kapcsolatok(tantargy-tanar)
-    path('tanfelo/feltoltes/kapcsolat/', kapcsolat_feltoltese_view),
-    path('tanfelo/feltoltes/kapcsolat/kuld/', kapcsolat_feltoltese_kuld_view),
+    # #Kapcsolatok(tantargy-tanar)
+    # path('tanfelo/feltoltes/kapcsolat/', kapcsolat_feltoltese_view),
+    # path('tanfelo/feltoltes/kapcsolat/kuld/', kapcsolat_feltoltese_kuld_view),
+
+    #Tanulocsoportok
+    path('tanfelo/tancsoportok/', tancsoportok_view),
+    path('tanfelo/tancsoportok/<int:id>/', tancsoportok_id_view),
+    #path('tanfelo/tancsoport/', tancsoport_view),
+
 ]
